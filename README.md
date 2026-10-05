@@ -1,4 +1,4 @@
-# 🛡️ AegisAI
+# 🛡️ AegisAI - Made by Leonardo Hayashi rm573670, Enrico Lhano rm572958, Vitor de França rm569072 e Vitoria Araujo rm574189
 
 ### AI-Powered Application Security Posture Management
 
